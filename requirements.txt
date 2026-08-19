@@ -1,0 +1,9 @@
+# NeuraBot - Pattern-Matching Chatbot
+# Created by: arik
+
+# Uses ONLY Python's standard library:
+#   tkinter, sqlite3, difflib, threading, re, random, datetime, string, os, sys
+
+# Install: nothing needed beyond Python 3.8+
+# Run:
+#   python app.py
